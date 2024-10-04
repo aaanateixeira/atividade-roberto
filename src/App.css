@@ -1,0 +1,56 @@
+.app {
+  text-align: center;
+  background-color: #ff69b4;
+  padding: 20px;
+  border-radius: 10px;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+h1 {
+  color: #fff;
+}
+
+.form input,
+.form textarea {
+  width: 90%;
+  margin: 10px 0;
+  padding: 10px;
+  border: 2px solid #fff;
+  border-radius: 5px;
+}
+
+button {
+  background-color: #fff;
+  color: #ff69b4;
+  border: none;
+  padding: 10px 15px;
+  border-radius: 5px;
+  cursor: pointer;
+  margin: 5px;
+}
+
+button:hover {
+  background-color: #f0f0f0;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  background-color: #fff;
+  color: #ff69b4;
+  margin: 10px 0;
+  padding: 15px;
+  border-radius: 5px;
+}
+
+li h3 {
+  margin: 0 0 5px;
+}
+
+li p {
+  margin: 0;
+}
